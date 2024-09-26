@@ -1,0 +1,18 @@
+[
+    {
+      "quote": "A imaginação é mais importante do que o conhecimento.",
+      "author": "Albert Einstein",
+      "image": "./assets/einstein.png"
+    },
+    {
+      "quote": "Mantenha-se faminto, mantenha-se tolo.",
+      "author": "Steve Jobs",
+      "image": "./assets/steve_jobs.png"
+    },
+    {
+      "quote": "O único limite para nossa realização do amanhã são nossas dúvidas de hoje.",
+      "author": "Franklin D. Roosevelt",
+      "image": "./assets/roosevelt.png"
+    }
+  ]
+  
